@@ -8,7 +8,7 @@ I am a Software Engineer at [EducationSuperhighway](https://www.educationsuperhi
 
 ### My Skills
 <details>
-  <summary><strong>Click to expand<strong></summary>
+  <summary><strong>Click to expand</strong></summary>
  
 #### Web technologies
 * Javascript ⭐⭐⭐⭐
