@@ -7,6 +7,9 @@ I am a Software Engineer at [EducationSuperhighway](https://www.educationsuperhi
 <img src='https://media.giphy.com/media/MXoyvLVaXqYbi6KUhu/giphy.gif' height='80px' />
 
 ### My Skills
+<details>
+  <summary>Click to expand</summary>
+ 
 #### Web technologies
 * Javascript ⭐⭐⭐⭐
 * HTML, CSS ⭐⭐
@@ -29,6 +32,8 @@ I am a Software Engineer at [EducationSuperhighway](https://www.educationsuperhi
 * R
 * d3.js
 * Tableau
+
+</details>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sierra073&count_private=true&show_icons=true&line_height=27&include_all_commits=true&hide=issues,contribs,prs,stars" alt="My github stats" />
