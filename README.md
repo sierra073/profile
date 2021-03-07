@@ -53,7 +53,8 @@ I am a Software Engineer at [EducationSuperhighway](https://www.educationsuperhi
 | Google Sheet insights tracker  | Automatically executes scripts (written in Python, R or SQL) used to generate metrics for the EducationSuperHighway State of the States Report and displays the metrics in a Google Sheet   |  Python, Bash, CircleCI |   https://github.com/sierra073/gsheet-service-layer
 
 ### Currently learning 📚
-* airflow
-* celery
-* devOps (Docker, AWS)
-* algorithmic trading
+* Airflow
+* Celery
+* DevOps (Docker, AWS)
+* Data Structures & Algorithms
+* Algorithmic trading
