@@ -46,11 +46,11 @@ I am a Software Engineer at [EducationSuperhighway](https://www.educationsuperhi
 ### Projects I'm most proud of
 | Name            | Description                                                         | Languages/Tools      | Repo/link                                                      |
 | --------------- | ------------------------------------------------------------------- | ------------- | ------------------------------------------------------ |
-| Machine Cleaning  |   A machine learning pipeline built to correct government (E-rate) form fields to aid in data cleaning |  Python, scikit learn |   https://github.com/sierra073/esh-machine-cleaning
-| K-12 Bridge to Broadband  | A secure site helping states and school districts map and connect students who do not have access to sufficient internet at home | React, Redux, Node.js/Express, Auth0, SQL, AWS |   https://map.digitalbridgek12.org/
-| Connect K-12  | Provides school district leaders with internet price transparency and insights they can use to upgrade their bandwidth and reduce costs | React, Redux, Node.js/Express, Python, SQL, AWS |   https://www.connectk12.org/
-| Annual Report Digital Experience  | A website for EducationSuperHighway's 2018 State of the States Report including animated charts |  d3.js, React |   https://stateofthestates.educationsuperhighway.org/
-| Google Sheet insights tracker  | Automatically executes scripts (written in Python, R or SQL) used to generate metrics for the EducationSuperHighway State of the States Report and displays the metrics in a Google Sheet   |  Python, Bash, CircleCI |   https://github.com/sierra073/gsheet-service-layer
+| **Machine Cleaning**  |   A machine learning pipeline built to correct government (E-rate) form fields to aid in data cleaning |  Python, scikit learn |   https://github.com/sierra073/esh-machine-cleaning
+| **K-12 Bridge to Broadband**   | A secure site helping states and school districts map and connect students who do not have access to sufficient internet at home | React, Redux, Node.js/Express, Auth0, SQL, AWS |   https://map.digitalbridgek12.org/
+| **Connect K-12**   | Provides school district leaders with internet price transparency and insights they can use to upgrade their bandwidth and reduce costs | React, Redux, Node.js/Express, Python, SQL, AWS |   https://www.connectk12.org/
+| **Annual Report Digital Experience**   | A website for EducationSuperHighway's 2018 State of the States Report including animated charts |  d3.js, React |   https://stateofthestates.educationsuperhighway.org/
+| **Google Sheet insights tracker**  | Automatically executes scripts (written in Python, R or SQL) used to generate metrics for the EducationSuperHighway State of the States Report and displays the metrics in a Google Sheet   |  Python, Bash, CircleCI |   https://github.com/sierra073/gsheet-service-layer
 
 ### Currently learning 📚
 * Airflow
