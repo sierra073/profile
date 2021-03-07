@@ -8,19 +8,19 @@ I am a Software Engineer at [EducationSuperhighway](https://www.educationsuperhi
 
 ### My Skills
 <details>
-  <summary>Click to expand</summary>
+  <summary><strong>Click to expand<strong></summary>
  
 #### Web technologies
 * Javascript ⭐⭐⭐⭐
-* HTML, CSS ⭐⭐
+* Node.js ⭐⭐⭐⭐
 * React ⭐⭐⭐
 * Redux ⭐⭐
-* Node.js ⭐⭐⭐⭐
+* HTML, CSS ⭐⭐
 * Express.js ⭐⭐⭐
 #### DevOps
-* AWS (S3, Lambda, Cloudformation) ⭐⭐
 * Heroku ⭐⭐⭐
 * CircleCI ⭐⭐⭐
+* AWS (S3, Lambda, Cloudformation) ⭐⭐
 * Docker ⭐⭐
 #### Data engineering
 * Python ⭐⭐⭐⭐
@@ -33,11 +33,11 @@ I am a Software Engineer at [EducationSuperhighway](https://www.educationsuperhi
 * d3.js
 * Tableau
 
-</details>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sierra073&count_private=true&show_icons=true&line_height=27&include_all_commits=true&hide=issues,contribs,prs,stars" alt="My github stats" />
-</a>  
+</a>
+
+</details>
 
 ### Projects I'm most proud of
 | Name            | Description                                                         | Language      | Repo                                                      |
