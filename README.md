@@ -17,7 +17,9 @@ I am a Software Engineer at [EducationSuperhighway](https://www.educationsuperhi
 * Redux ⭐⭐
 * HTML, CSS ⭐⭐
 * Express.js ⭐⭐⭐
+* SQL ⭐⭐⭐⭐
 #### DevOps
+* Git ⭐⭐⭐⭐
 * Heroku ⭐⭐⭐
 * CircleCI ⭐⭐⭐
 * AWS (S3, Lambda, Cloudformation) ⭐⭐
@@ -25,6 +27,7 @@ I am a Software Engineer at [EducationSuperhighway](https://www.educationsuperhi
 #### Data engineering
 * Python ⭐⭐⭐⭐
 * Bash / shell scripting ⭐⭐
+* Redis ⭐⭐
 * AWS (EC2, ECS, RDS) ⭐
 #### Analytics and data visualization
 * Machine Learning (supervised classification, not deep learning)
@@ -32,6 +35,7 @@ I am a Software Engineer at [EducationSuperhighway](https://www.educationsuperhi
 * R
 * d3.js
 * Tableau
+* Google Apps Script
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sierra073&count_private=true&show_icons=true&line_height=27&include_all_commits=true&hide=issues,contribs,prs,stars" alt="My github stats" />
@@ -42,7 +46,7 @@ I am a Software Engineer at [EducationSuperhighway](https://www.educationsuperhi
 ### Projects I'm most proud of
 | Name            | Description                                                         | Language      | Repo                                                      |
 | --------------- | ------------------------------------------------------------------- | ------------- | ------------------------------------------------------ |
-|     a   |                     b              |       c       |   d
+| Machine Cleaning  |   A machine learning pipeline built to correct government (E-rate) form fields to aid in data cleaning |  Python, scikit learn |   https://github.com/sierra073/esh-machine-cleaning
 
 ### Currently learning 📚
 * airflow
