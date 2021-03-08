@@ -6,29 +6,29 @@ I am a Software Engineer at [EducationSuperhighway](https://www.educationsuperhi
 
 <img src='https://media.giphy.com/media/MXoyvLVaXqYbi6KUhu/giphy.gif' height='80px' />
 
-### My Skills
+### My Skills 🎛️
 <details>
   <summary><strong>Click to expand</strong></summary>
  
 #### Web technologies
-* Javascript ⭐⭐⭐⭐
-* Node.js ⭐⭐⭐⭐
-* React ⭐⭐⭐
-* Redux ⭐⭐
-* HTML, CSS ⭐⭐
-* Express.js ⭐⭐⭐
-* SQL ⭐⭐⭐⭐
+* Javascript
+* Node.js
+* React
+* Redux
+* HTML, CSS
+* Express.js
+* SQL
 #### DevOps
-* Git ⭐⭐⭐⭐
-* Heroku ⭐⭐⭐
-* CircleCI ⭐⭐⭐
-* AWS (S3, Lambda, Cloudformation) ⭐⭐
-* Docker ⭐⭐
+* Git
+* Heroku
+* CircleCI
+* AWS (S3, Lambda, Cloudformation)
+* Docker
 #### Data engineering
-* Python ⭐⭐⭐⭐
-* Bash / shell scripting ⭐⭐
-* Redis ⭐⭐
-* AWS (EC2, ECS, RDS) ⭐
+* Python
+* Bash / shell scripting
+* Redis
+* AWS (EC2, ECS, RDS)
 #### Analytics and data visualization
 * Machine Learning (supervised classification, not deep learning)
 * Hypothesis testing
@@ -43,7 +43,7 @@ I am a Software Engineer at [EducationSuperhighway](https://www.educationsuperhi
 
 </details>
 
-### Projects I'm most proud of
+### Projects I'm most proud of 💻
 | Name            | Description                                                         | Languages/Tools      | Repo/link                                                      |
 | --------------- | ------------------------------------------------------------------- | ------------- | ------------------------------------------------------ |
 | **Machine Cleaning**  |   A machine learning pipeline built to correct government (E-rate) form fields to aid in data cleaning |  Python, scikit learn |   https://github.com/sierra073/esh-machine-cleaning
