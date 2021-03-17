@@ -10,8 +10,9 @@ I am a Software Engineer at [EducationSuperhighway](https://www.educationsuperhi
 <details>
   <summary><strong>Click to expand</strong></summary>
  
-#### Web technologies
+#### Full-stack web development
 * Javascript
+* Typescript
 * Node.js
 * React
 * Redux
